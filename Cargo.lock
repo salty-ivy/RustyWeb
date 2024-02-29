@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RustyWeb"
+name = "rusty_web"
 version = "0.1.0"
